@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: boot-dubbo-provider
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: WIN7
+Implementation-Vendor-Id: com.boot
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/boot-dubbo/boot-dubbo-provider
+Created-By: Maven Integration for Eclipse
+

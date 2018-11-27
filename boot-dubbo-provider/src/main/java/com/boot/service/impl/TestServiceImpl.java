@@ -1,13 +1,14 @@
 package com.boot.service.impl;
 
-import com.alibaba.dubbo.config.annotation.Service;
 import com.boot.domain.User;
 import com.boot.service.TestService;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-@Service(version = "1.0.0")
+import org.springframework.stereotype.Service;
+
+@Service("testService")
 public class TestServiceImpl implements TestService {
 
     @Override
